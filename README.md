@@ -30,12 +30,12 @@ Clone the repository and install dependencies:
 
 | Feature                 | Description                                    |
 | ----------------------- | ---------------------------------------------- |
-| npm run dev             | Fast and efficient development setup           |
-| npm run build           | Modular and maintainable styling               |
-| npm run preview         | Interactive UI documentation                   |
-| npm run storybook       | Unit testing with Jest & React Testing Library |
-| npm run build-storybook | Code quality and formatting                    |
-| npm run test            | Code quality and formatting                    |
+| npm run dev             | app start                                      |
+| npm run build           | app build as static site                       |
+| npm run preview         | app preview                                    |
+| npm run storybook       | UI and component documentation                 |
+| npm run build-storybook | UI and component documentation as static site  |
+| npm run test            | unit tests                                     |
 | npm run lint            | Code quality and formatting                    |
 
 ```sh
